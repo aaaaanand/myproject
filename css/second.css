@@ -58,11 +58,10 @@ background-color: #ECF0F1  ;}
 background-color: #ECF0F1;
 }
 
-.footer label:after {
+.footer #policy:after {
 	content: ' | '
 
 }
-.footer span:after {
-	content:none;
-
+body{
+	min-width:400px;
 }
